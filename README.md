@@ -1,0 +1,1 @@
+Using Variadic function I was able to write my own printf function called _printf. This works just like printf function in standard C library. Although not yet complete but it works for the needed output
